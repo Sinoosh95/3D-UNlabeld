@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.757
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AddinRibbon", "NWPlugin\AddinRibbon.csproj", "{61516CC5-5BFB-4109-B609-61BFEFE55F71}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{C68E2910-4272-432C-8951-2FF87C8E44E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{61516CC5-5BFB-4109-B609-61BFEFE55F71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{61516CC5-5BFB-4109-B609-61BFEFE55F71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{61516CC5-5BFB-4109-B609-61BFEFE55F71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{61516CC5-5BFB-4109-B609-61BFEFE55F71}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C482F9-7552-485B-A189-3C607389DA99}
+	EndGlobalSection
+EndGlobal
